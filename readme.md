@@ -10,7 +10,7 @@ For build this components i used vite.js with the template vue (with the last rf
 
 ## Installation
 
-1. Git clone this repository
-2. Cd github-profile-card
+1. git clone this repository
+2. cd github-profile-card
 3. npm install
 4. npm run dev
